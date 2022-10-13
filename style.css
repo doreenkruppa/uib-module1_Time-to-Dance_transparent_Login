@@ -1,0 +1,48 @@
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(https://fastly.4sqi.net/img/general/600x600/22382387_4hm6SQDdZOlNd4gJXuaXLemCobXpURDTDlerABeB0pg.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+form {
+  width: 25rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+h1 {
+  border-bottom: 4px solid rgb(19, 233, 19);
+  text-align: center;
+}
+input {
+  border: none;
+  background: transparent;
+}
+button {
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 3rem;
+  width: 100%;
+  border: 2px solid rgb(19, 233, 19);
+  background: transparent;
+  color: white;
+}
+label {
+  font-weight: bold;
+  font-size: x-large;
+}
+div {
+  border-bottom: 2px solid rgb(19, 233, 19);
+  height: 2rem;
+  padding-bottom: 0%;
+  padding-top: 1rem;
+}
+span {
+  margin-right: 3px;
+}
