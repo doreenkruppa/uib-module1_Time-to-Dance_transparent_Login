@@ -17,12 +17,20 @@ form {
   transform: translate(-50%, -50%);
 }
 h1 {
+  font-size: 50px;
   border-bottom: 4px solid rgb(19, 233, 19);
   text-align: center;
 }
 input {
   border: none;
   background: transparent;
+  width: 10rem;
+  height: 1.5rem;
+}
+
+input::placeholder {
+  color: rgb(19, 233, 19);
+  font-size: 18px;
 }
 button {
   font-size: x-large;
@@ -33,6 +41,10 @@ button {
   background: transparent;
   color: white;
 }
+button:hover {
+  background-color: rgb(19, 233, 19);
+}
+
 label {
   font-weight: bold;
   font-size: x-large;
