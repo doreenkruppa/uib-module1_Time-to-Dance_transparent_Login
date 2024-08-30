@@ -1,5 +1,7 @@
-# Kurs-Modul 1 - UserInterfaceBasics (UIB) - HTML/CSS
+# "Time to Dance" - (transparent) Login
 
-## solved exercise on forms - a simple (transparent)login
+## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
+
+solved exercise on forms
 
 15.9.22
